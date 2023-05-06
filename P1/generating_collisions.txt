@@ -1,0 +1,46 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 \
+1. Running time: 7.38263 s\
+\
+2.\
+\
+md5_data1\
+1d6037a89f1fc6eb4b717e930a6bd09a2a3f61c9f4151a7420b27fcaed0e\
+b3c8d405c10b3ecb3b8bef253dfc0184561aad6f76853b343febc5dfb769\
+250d2eb64ba969176c8adc9496cb12d630dec15babd4fb441e23b97e7eed\
+e34b5b11ebc1a6f8c82a9450a276eba1eb98d9b8d9ea7b661cd9368950e5\
+c8c9d53fb99ace51\
+\
+md5_data2\
+1d6037a89f1fc6eb4b717e930a6bd09a2a3f6149f4151a7420b27fcaed0e\
+b3c8d405c10b3ecb3b8bef253dfc0104571aad6f76853b343febc5dfb7e9\
+250d2eb64ba969176c8adc9496cb12d630dec15babd4fbc41e23b97e7eed\
+e34b5b11ebc1a6f8c82a9450a276eba1eb98d938d9ea7b661cd9368950e5\
+c8c9d5bfb99ace51\
+\
+3.\
+\
+md5_data1\
+MD5 (md5_data1) = 34f6246872292034563c3b92dc00b607\
+\
+md5_data2\
+MD5 (md5_data2) = 34f6246872292034563c3b92dc00b607\
+\
+4.\
+\
+openssl sha256 md5_data1\
+SHA256(md5_data1)= 4f88075af675cb8bff6499c9740c5d965578fdcb49ceb81037c547c5d1355a36\
+\
+openssl sha256 md5_data2\
+SHA256(md5_data2)= 3008d3f1a65014fc8b13f3e7a22c454e4e5ba403cce8abb988cbba2de7387a5e\
+\
+\
+\
+\
+}
